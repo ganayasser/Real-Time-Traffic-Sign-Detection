@@ -1,0 +1,16 @@
+# YOLOv8 package
+ultralytics
+
+# Data manipulation and visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Image processing
+Pillow
+opencv-python
+
+# Progress bar
+tqdm
+
